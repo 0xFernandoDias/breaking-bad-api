@@ -1,4 +1,4 @@
-# Some screenshots of the project!
+# Some screenshots of the project! 
 
 ![](images/screenshot1.jpg)
 ![](images/screenshot2.jpg) 
